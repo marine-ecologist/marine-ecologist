@@ -1,6 +1,6 @@
 - George Roff 
 - @marine-ecologist @CSIRO
-- Ecology (corals, fish, plants, fossils) 
+- ecology, corals, fish, plants, fossils
 
 https://people.csiro.au/R/G/george-roff
 
